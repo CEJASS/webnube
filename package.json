@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-nube-web",
+  "version": "1.0.0",
+  "description": "Práctica de despliegue en la nube - Universidad",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo done"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
